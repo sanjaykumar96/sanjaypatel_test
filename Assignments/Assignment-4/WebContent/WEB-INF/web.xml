@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<session-config>
+		<!-- session timeout contains only minute values and it cannot be float -->
+		<session-timeout>1</session-timeout>
+	</session-config>
+</web-app>
